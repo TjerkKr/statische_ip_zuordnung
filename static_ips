@@ -19,6 +19,7 @@
 # nordlab e.V. 10.129.2.51-60
 # Virtualisierungsserver 10.129.2.100-120
 # scire 10.129.2.121-123
+# luftdaten.info Projekt 10.129.2.130-150
 
 #Begin Block Fabian
 host zebedaeus01 {
